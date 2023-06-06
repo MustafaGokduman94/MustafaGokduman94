@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @MustafaGokduman94
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 You can reach on my profile linkedin account :)
 
-<!---
-MustafaGokduman94/MustafaGokduman94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
